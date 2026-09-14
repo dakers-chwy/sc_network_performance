@@ -1,0 +1,4 @@
+scenario_id,fc,lane,retained_packages,baseline_cpp,scenario_cpp,cpl_no_fsc,min_miles
+SYNTHETIC,DEMO1,LANE_A,63000,8.00,5.50,900,200
+SYNTHETIC,DEMO1,LANE_B,9000,6.00,6.50,800,100
+SYNTHETIC,DEMO2,LANE_C,0,7.00,5.00,700,50
