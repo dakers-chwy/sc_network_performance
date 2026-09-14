@@ -1,0 +1,10 @@
+{
+  "scenario_status": "SYNTHETIC_EXAMPLE_NOT_APPROVED",
+  "observation_weeks": 9,
+  "mm_conversion": 0.835,
+  "packages_per_load": 1175,
+  "minimum_weekly_loads": 7,
+  "fuel_per_mile": 0.6,
+  "minimum_spl": 100,
+  "load_rounding": "CEIL"
+}
